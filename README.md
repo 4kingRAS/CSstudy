@@ -5,6 +5,8 @@
 
 **英语内容会标注English**
 
+坚持每周更新一下
+
 ---
 
 ## Computer Science / 硬件 / 底层
@@ -25,6 +27,7 @@
 
 [LFS project 也有中文项目| English](http://www.linuxfromscratch.org/lfs/)
 
+[Linux 系统管理的面试题| English](https://github.com/trimstray/test-your-sysadmin-skills)
 
 ## Math / Algorithm
 
@@ -47,6 +50,8 @@
 ## Distribute System
 
 [MIT Distribute system 翻译](https://github.com/feixiao/Distributed-Systems)
+
+[交互式介绍区块链的一个电子书| English](https://blockchainhandbook.io/)
 
 ## JAVA/C/CPP
 
