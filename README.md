@@ -29,6 +29,8 @@
 
 [Linux 系统管理的面试题| English](https://github.com/trimstray/test-your-sysadmin-skills)
 
+[命令行程序的基本原理](https://blog.twentytwotabs.com/the-smallest-bash-program-in-the-universe/)
+
 ## Math / Algorithm
 
 [数据结构可视化| English](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
@@ -47,11 +49,14 @@
 
 [机器学习经典论文收集](http://suanfazu.com/discussion/68)
 
-## Distribute System
+## Distribute System & Database
 
 [MIT Distribute system 翻译](https://github.com/feixiao/Distributed-Systems)
 
 [交互式介绍区块链的一个电子书| English](https://blockchainhandbook.io/)
+
+[交互式SQL语言教程| English](https://selectstarsql.com/)
+
 
 ## JAVA/C/CPP
 
@@ -65,6 +70,8 @@
 
 
 ## Web / 计算机网络
+
+[从协议设计的顶层角度，总体上解释互联网协议的设计思想| English](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
 
 [巨齐全前端开发文档| English](http://devdocs.io)
 
