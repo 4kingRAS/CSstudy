@@ -66,6 +66,8 @@
 
 ## Web / 计算机网络
 
+[如何阅读 RFC？| English](https://web.archive.org/web/20180916071340/https://www.mnot.net/blog/2018/07/31/read_rfc)
+
 [巨齐全前端开发文档| English](http://devdocs.io)
 
 [系统设计入门](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)
