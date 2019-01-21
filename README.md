@@ -91,5 +91,4 @@
 [Web architecture| English](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 
 [互联网历史文件| English](https://rscott.org/OldInternetFiles/)
-
-早期互联网是没有DNS的，一个hosts记录了所有网站。
+[早期互联网是没有DNS的，一个hosts记录了所有网站.]
