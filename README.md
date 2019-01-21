@@ -2,6 +2,7 @@
 
 
 这么多star让我受宠若惊，一般博客就不收集了，这里收集一些课程或者质量高的教程。
+本文主要来源是阮一峰的每周分享，以及hacknews趣贴，以及我自己的收集
 
 **英语内容会标注English**
 
@@ -10,6 +11,8 @@
 ---
 
 ## Computer Science / 硬件 / 底层
+
+[强力推荐南大这个计算机系统基础实验课！！！](https://nju-ics.gitbooks.io/ics2018-programming-assignment/content/)
 
 [逆向工程初学者教程| English](https://www.begin.re/)
 
@@ -58,9 +61,11 @@
 [交互式SQL语言教程| English](https://selectstarsql.com/)
 
 
-## JAVA/C/CPP
+## JAVA/C/GO/Rust
 
-[C++资源库| English](http://www.cplusplus.com/)
+###本人很讨厌c++，但是喜欢c，故删除cpp内容
+
+[go中文文档](https://go-zh.org/doc/)
 
 [从头教你写一个LISP编译器| English](http://www.buildyourownlisp.com/contents)
 
@@ -82,3 +87,6 @@
 [腾讯Alloyteam前端工具库](http://alloyteam.github.io/)
 
 [Web architecture| English](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
+
+[互联网历史文件| English](https://rscott.org/OldInternetFiles/)
+早期互联网是没有DNS的，一个hosts记录了所有网站。
