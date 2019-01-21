@@ -76,7 +76,11 @@
 
 ## Web / 计算机网络
 
+<<<<<<< HEAD
+[如何阅读 RFC？| English](https://web.archive.org/web/20180916071340/https://www.mnot.net/blog/2018/07/31/read_rfc)
+=======
 [从协议设计的顶层角度，总体上解释互联网协议的设计思想| English](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
+>>>>>>> d33d0c135f8e8aef7a183fcae298670f9eac3413
 
 [巨齐全前端开发文档| English](http://devdocs.io)
 
