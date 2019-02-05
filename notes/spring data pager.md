@@ -62,5 +62,12 @@ springdata早期版本只是`this.total = total`, 后面为了解决最后一页
 
 **也就是说total确实是list.size()，但是content要传的是你这一页要显示的sublist！**
 
+正确做法：
+```java
+int start = page * size; //当前条目偏移
+int end = (start + size) > list.size() ? list.size() : (start + size);//判断是不是最后一页
+Page<T> data = new PageImpl<>(list.subList(start, end), pageable, list.size());
+```
+
 一不小心就糊涂了，还是得仔细看说明文档。但是这种设计也是够sb的，参数说明应该清楚一点啊
 
