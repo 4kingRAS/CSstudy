@@ -13,6 +13,14 @@
 坚持每周更新一下
 
 ---
+## 个人速查笔记
+
+[Git命令笔记](./notes/git-shell-study-note.md)
+
+[ThinkinJava notes](./notes/think-in-java-notes.md)
+
+
+
 
 ## Computer Science / 硬件 / 底层
 
@@ -37,6 +45,8 @@
 [Linux 系统管理的面试题| English](https://github.com/trimstray/test-your-sysadmin-skills)
 
 [命令行程序的基本原理](https://blog.twentytwotabs.com/the-smallest-bash-program-in-the-universe/)
+
+[7小时入门Linux视频，有操作有讲解|Youtube](https://www.youtube.com/watch?v=wBp0Rb-ZJak)
 
 ## Math / Algorithm
 
@@ -64,6 +74,7 @@
 
 [交互式SQL语言教程| English](https://selectstarsql.com/)
 
+[Stanford CS346 实现一个数据库| English](https://web.stanford.edu/class/cs346/2015/)
 
 ## JAVA/C/GO/Rust
 
