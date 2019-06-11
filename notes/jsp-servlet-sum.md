@@ -2,5 +2,10 @@
 
 应对 WEB 考试用。。。
 ---
-## jsp
+## Tomcat 配置
+
+conf    存放全局配置
+lib     存放全局站点共享的jar包
+webapps 默认站点根目录
+work    存放jsp，servlet等的编译结果
 
