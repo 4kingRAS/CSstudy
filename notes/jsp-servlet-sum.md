@@ -9,3 +9,14 @@ lib     存放全局站点共享的jar包
 webapps 默认站点根目录
 work    存放jsp，servlet等的编译结果
 
+项目/WEB-INF/web.xml  项目的配置文件
+
+## Java Server Page
+
+`<%@ page ... %>` jsp声明
+
+`<%@ include ... %>` 引入文件
+
+`<%@ taglib ... %>`  引入标签库
+
+## DOM BOM 相关
