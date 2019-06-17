@@ -19,4 +19,20 @@ work    存放jsp，servlet等的编译结果
 
 `<%@ taglib ... %>`  引入标签库
 
-## DOM BOM 相关
+## DOM BOM
+
+Document Object Model - document.getElementByClassName...
+
+Browser Object Model - window.document, window.screen, window.history...
+
+
+## HTML
+
+```html
+<head>
+    <link rel="short icon" href="//static/xxx.ico">
+    <title>xxxx</title>
+</head>
+```
+
+在head中可定义网页标题的图标
