@@ -8,6 +8,9 @@
 2019年更新，notes文件夹下放一些笔记，和对技术，业界的思考，与博客同步。
 学习玉伯，把Issues当博客用了，以后放点随笔进去。
 
+`PAT with C`放了自己的PAT题解，用PAT编号标了，C语言实现。
+ https://pintia.cn/problem-sets/994805342720868352/problems/type/7
+
 **英语内容会标注English**
 
 坚持每周更新一下

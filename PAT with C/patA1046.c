@@ -1,0 +1,44 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+struct Node
+{
+    int next;
+    char flag;
+};
+
+
+int main()
+{
+    int s1, s2, n;
+    scanf("%d%d%d", &s1, &s2, &n);
+
+    struct Node data[100001];
+    char tmp;
+    int addr, next;
+    for (int i = 0; i < n; i++) 
+    {
+        scanf("%d %c %d", &addr, &tmp, &next);
+        data[addr].next = next;
+        data[addr].flag = 0;
+    }
+
+    for (int i = s1; i != -1; i = data[i].next)
+    {
+        data[i].flag = 1;
+    }
+    
+    int p;
+    for (p = s2; p != -1; p = data[p].next)
+    {
+        if (data[p].flag == 1)
+            break;  
+    }
+    if (p != -1)
+    {
+        printf("%05d\n", p);
+    } else {
+        printf("%05d\n", -1);
+    }
+    return 0;
+}
