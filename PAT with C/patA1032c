@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// ** PAT A 1032 Sharing
+//https://www.nowcoder.com/pat/5/problem/4019
+
 struct Node
 {
     int next;
