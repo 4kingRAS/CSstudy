@@ -18,11 +18,26 @@ int main(void) {
     int n;
     scanf("%d", &n);
 
-    while (n > 0)
+    int sum = 0;
+    int a = 1;  //power
+    while (n / a != 0)
     {
-        n = n / 10;
+        int num = n / a;
+        int lo = n % a;
+        int cur = num % 10;
+        int hi = num / 10;
+
+        if (cur == 0)
+        {
+            sum += hi * a;
+        }
+        else
+        {
+            sum += (cur == 1) ?  (hi * a + lo + 1) : ((hi+1) * a);
+        }
+        a *= 10;
     }
-    
+    printf("%d\n", sum);
 
     return 0;
 }
