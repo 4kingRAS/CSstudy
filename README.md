@@ -11,6 +11,8 @@
 `PAT with C`放了自己的PAT题解，用PAT编号标了，C语言实现。
  https://pintia.cn/problem-sets/994805342720868352/problems/type/7
 
+ `BATHM Exam`放了一些笔试题，本人比较懒，看心情更新。
+
 **英语内容会标注English**
 
 坚持每周更新一下
@@ -22,7 +24,7 @@
 
 [ThinkinJava notes](./notes/think-in-java-notes.md)
 
-
+[MySQL quick](./notes/sql.md)
 
 
 ## Computer Science / 硬件 / 底层
@@ -40,6 +42,9 @@
 [数字摄像头怎么工作的| English](http://datagenetics.com/blog/may12018/index.html)
 
 [Introduction to Computer Organization with x86-64 Assembly Language GNU Linux](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html)
+
+[x86架构操作系统内核的实现](http://wiki.0xffffff.org/)
+这个教程比较系统且照顾初学者，要比做CMU, MIT的LAB容易一些，但是也有学习的价值。
 
 ## Linux
 
@@ -78,6 +83,8 @@
 [交互式SQL语言教程| English](https://selectstarsql.com/)
 
 [Stanford CS346 实现一个数据库| English](https://web.stanford.edu/class/cs346/2015/)
+
+[用C实现一个简易SQLite数据库| English](https://cstack.github.io/db_tutorial/)
 
 ## JAVA/C/GO/Rust
 
