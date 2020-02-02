@@ -29,6 +29,8 @@
 
 ## Computer Science / 硬件 / 底层
 
+[虚拟内存探究，深入理解进程地址空间](http://blog.coderhuo.tech/2017/10/19/Virtual_Memory_summary/)
+
 [强力推荐南大这个计算机系统基础实验课！！！](https://nju-ics.gitbooks.io/ics2018-programming-assignment/content/)
 
 [逆向工程初学者教程| English](https://www.begin.re/)
