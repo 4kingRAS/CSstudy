@@ -2,16 +2,20 @@
 
 
 这么多star让我受宠若惊，一般博客就不收集了，这里收集一些课程或者质量高的教程。
-本文主要来源是阮一峰的每周分享，以及hacknews趣贴，以及我自己的收集
+本文主要来源是阮一峰的每周分享，以及hackerNews趣贴，以及我自己的收集
+
+我的目标就是尽量掌握第一手资料，第一手资料最正确，最真实，往往也最容易理解。程序员应该杜绝营销号加工的二手，三手信息，养成自己查资料的习惯。
 
 ---
 2019年更新，notes文件夹下放一些笔记，和对技术，业界的思考，与博客同步。
 学习玉伯，把Issues当博客用了，以后放点随笔进去。
 
-`PAT with C`放了自己的PAT题解，用PAT编号标了，C语言实现。
- https://pintia.cn/problem-sets/994805342720868352/problems/type/7
+---
+2021年更新，博客我现在都用notion写了，不定期更新到github上。
 
- `BATHM Exam`放了一些笔试题，本人比较懒，看心情更新。
+`PAT with C`放了自己的PAT题解，用PAT编号标了，C语言实现。
+
+`BATHM Exam`放了一些笔试题，本人比较懒，看心情更新。
 
 **英语内容会标注English**
 
@@ -92,11 +96,24 @@
 
 ## JAVA/C/GO/Rust
 
-### 本人很讨厌c++，但是喜欢c，故删除cpp内容
+本人很讨厌c++，但是喜欢c，故删除cpp内容
+
+---
 
 [go中文文档](https://go-zh.org/doc/)
 
 [从头教你写一个LISP编译器| English](http://www.buildyourownlisp.com/contents)
+
+[Doug lea 的jdk邮件列表，很多讨论JDK的第一手内容](http://cs.oswego.edu/pipermail/concurrency-interest/)
+
+## 企业技术分享
+
+[美团技术](https://tech.meituan.com/)
+
+[阿里技术](https://www.zhihu.com/org/a-li-ji-zhu)
+
+[腾讯技术工程](https://www.zhihu.com/org/teng-xun-ji-zhu-gong-cheng)
+
 
 ## Android/Win/iOS
 
